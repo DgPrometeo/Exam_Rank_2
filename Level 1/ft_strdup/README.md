@@ -1,5 +1,7 @@
 Assignment name  : ft_strdup
+
 Expected files   : ft_strdup.c
+
 Allowed functions: malloc
 --------------------------------------------------------------------------------
 
